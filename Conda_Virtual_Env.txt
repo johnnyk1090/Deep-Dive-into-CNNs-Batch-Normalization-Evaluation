@@ -1,0 +1,21 @@
+1. conda create -n yourenv pip
+
+
+2. conda activate yourenv
+
+
+# to create a new env based upon spec-file.txt 
+3. conda create --name myenv --file spec-file.txt 
+
+OR
+
+# to use the spec file to install its listed packages into an existing environment
+4. conda install --name myenv --file spec-file.txt
+
+
+# clone an existing env to a new one 
+5. conda create --name myclone --clone myenv
+
+
+# extract requirements file (spec-file.txt)
+6. conda list --explicit > spec-file.txt
