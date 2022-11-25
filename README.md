@@ -8,7 +8,7 @@
 
 Here're some of the project's best features:
 
-*   SOTA classes for plotting the channels parameters and activation functions
+*   SOTA classes for plotting the channels, parameters and activation functions
 *   Batch Normalization (take the output of each neuron --> calculate the mean and the std variance --> normalize the output --> scale and shift them --> pass the parameters to the activation functions)
 *   CNNs
 
