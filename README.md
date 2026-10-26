@@ -44,4 +44,4 @@ Then open [`CNN_&_BatchNorm.ipynb`](CNN_%26_BatchNorm.ipynb).
 
 <br>
 
-<p align="center"><sub>Part of the work of <a href="https://github.com/johnnyk1090">Giannis Konteas</a> · end-to-end data science</sub></p>
+<p align="center"><sub>Part of the work of <a href="https://github.com/johnnyk1090">John Konteas</a> · end-to-end data science</sub></p>
